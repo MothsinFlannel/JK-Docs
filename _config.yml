@@ -1,8 +1,11 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: JK Docs
+description: A hub for JKGOC Documentation and Resources
 theme: just-the-docs
 
 url: https://mothsinflannel.github.io/JK-Docs
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+plugins:
+  - jekyll-default-layout
